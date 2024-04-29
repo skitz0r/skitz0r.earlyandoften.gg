@@ -1,10 +1,8 @@
 ---
+title: Home
+layout: default
+color_scheme: dark
+nav_order: 1
 ---
 
-Welcome to My Home Page
-
-{% assign date = '2020-04-13T10:20:00Z' %}
-
-- Original date - {{ date }}
-- With timeago filter - {{ date | timeago }}
-
+This is the home page that has nothing on it.

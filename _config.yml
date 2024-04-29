@@ -1,1 +1,31 @@
-title: "Jekyll Actions Demo"
+title: Early and Often
+description: Season of Discovery Class and Raid Guides and FAQs
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://earlyandoften.gg" # the base hostname & protocol for your site, e.g. http://example.com
+repository: skitz0r/skitz0r.earlyandoften.gg # for github-metadata
+
+permalink: pretty
+theme: just-the-docs
+logo: "/assets/images/logo-no-background.pdf"
+favicon_ico: "/assets/images/favicon.ico"
+color_scheme: dark
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
