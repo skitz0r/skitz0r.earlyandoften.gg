@@ -8,7 +8,7 @@ permalink: /balance/
 last_modified_date: 2024-04-23
 
 ---
-![banner](/assets/images/druid/balance/banner.png)
+![banner](../../assets/images/druid/balance/banner.png)
 {: .no_toc }
 
 This page presents information about the theoretical optimal way to play Balance Druid in Season of Discovery's Phase 3 raid,
@@ -116,7 +116,7 @@ To be more clear, max dps on 2-4 target:
 
 ### Best in Slot (BIS)
 
-![bis](/assets/images/druid/balance/bis.png)
+![bis](../../assets/images/druid/balance/bis.png)
 [See it on SixtyUpgrades](https://sixtyupgrades.com/sod/set/7E3YD8Zp7senHrSgeuDzkv){: .btn }
 
 Some potential peplacement options:
@@ -133,7 +133,7 @@ Some potential peplacement options:
 Stuff like +8 int to leg/helm enchant is relatively unrealistic/expensive, especially for prebis but have listed them regardless. Int to legs and helm is worth almost no dps; do not prioritize it (I may just use 100hp to legs/helm, honestly).
 
 ### Pre-Raid Best in Slot (Pre-BIS)
-![prebis](/assets/images/druid/balance/prebis.png)
+![prebis](../../assets/images/druid/balance/prebis.png)
 [See it on SixtyUpgrades](https://sixtyupgrades.com/sod/set/4tRTdUfZFtmnaBSXTpiYW3){: .btn }
 
 {: .highlight }
@@ -280,7 +280,7 @@ Ez Thro Dynamite II / Oil of Immolation / Dragonbreath chili (if melee weaving)
 - Free Action Pot
 
 ## Talents
-![bis](/assets/images/druid/balance/talents.png)
+![bis](../../assets/images/druid/balance/talents.png)
 [See on WOWHEAD](https://www.wowhead.com/classic/talent-calc/druid/5000550312551351_116xz56pr66y276v386pq96t1a6t0){: .btn }
 
 
