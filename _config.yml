@@ -1,8 +1,11 @@
 title: Early and Often
 description: Season of Discovery Class and Raid Guides and FAQs
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://earlyandoften.gg" # the base hostname & protocol for your site, e.g. http://example.com
-repository: skitz0r/skitz0r.earlyandoften.gg # for github-metadata
+#url: "http://earlyandoften.gg" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://skitz0r.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+repository: skitz0r/skitz0r.github.io
+
+ # for github-metadata
 
 permalink: pretty
 theme: just-the-docs
